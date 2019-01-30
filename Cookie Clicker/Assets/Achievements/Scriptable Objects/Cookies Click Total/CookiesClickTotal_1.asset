@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9244c9413c9b6494eb443975051b2d03, type: 3}
+  m_Name: CookiesClickTotal_1
+  m_EditorClassIdentifier: 
+  nome: Clicktastic
+  descricao: Make 10 cookies from clicking.
+  imagem: {fileID: 21300000, guid: aced3a9353a52514ca1cb8161c2b29c4, type: 3}
+  valorDesbloqueio: 10

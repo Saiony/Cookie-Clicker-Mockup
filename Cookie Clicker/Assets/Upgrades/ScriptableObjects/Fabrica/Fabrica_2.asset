@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baf0e8d9717509a46be42743e84a1ffa, type: 3}
+  m_Name: Fabrica_2
+  m_EditorClassIdentifier: 
+  nome: Child labor
+  descricao: Factories are twice as efficient. "Cheaper, healthier workforce."
+  imagem: {fileID: 21300000, guid: c2b087633939fd0428d8f086c22a44e5, type: 3}
+  quantidadeNecessaria: 5
+  preco: 5000
